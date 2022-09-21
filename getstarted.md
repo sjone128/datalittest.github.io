@@ -1,6 +1,6 @@
 # Beautiful Jekyll: Getting Started
 
-![plant](/assets/img/plant.jpg)
+![plant](/assets/img/plant.jpg){: .mx-auto.d-block :}
 
 > By [Dean Attali](https://deanattali.com) &middot; [Demo](https://beautifuljekyll.com/)
 
