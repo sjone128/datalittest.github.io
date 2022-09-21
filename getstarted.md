@@ -79,6 +79,13 @@ Note that this was the easy way to *create* your website, but it does come at a 
      font-size: 40px;
 }     
      
+.gs-section-04 h3 { 
+     color: yellow }
+
+.gs-section-04 p {
+     font-size: 10px;
+}     
+     
 </style>
 
 
